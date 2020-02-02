@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DataSaver</string>
+
+    <string name="Google_Maps_API_Key">AIzaSyC_Q8zbkS4zYNCXpz53eHIu7-QUXcIQexk</string>
+    <string name="wifi_bluetooth_on">Wifi and Bluetooth On</string>
+    <string name="wifi_bluetooth_off">Wifi and Bluetooth Off</string>
+    <string name="datasaver">DataSaver</string>
+</resources>
